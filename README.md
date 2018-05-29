@@ -19,6 +19,6 @@ Requisitos:
 
 Cursos de apoio (em ordem):
 
-https://cursos.alura.com.br/course/php-oo-1
-https://cursos.alura.com.br/course/php-oo-2
-https://cursos.alura.com.br/course/laravel
+- https://cursos.alura.com.br/course/php-oo-1
+- https://cursos.alura.com.br/course/php-oo-2
+- https://cursos.alura.com.br/course/laravel
